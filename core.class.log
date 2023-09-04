@@ -1,0 +1,1732 @@
+[handleMsg]:  {
+  id: 'false_51974184959@c.us_3EB09FBC75E34BD6B3B097',
+  type: 'e2e_notification',
+  subtype: 'encrypt',
+  t: 1693583164,
+  from: '51974184959',
+  to: '51932140745@c.us',
+  self: 'in',
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  templateParams: [],
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51974184959@c.us',
+  fromMe: false,
+  sender: {
+    id: '51974184959@c.us',
+    type: 'in',
+    privacyMode: null,
+    formattedName: '+51 974 184 959',
+    isMe: false,
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {},
+    msgs: null
+  },
+  timestamp: 1693583164,
+  isGroupMsg: false,
+  mediaData: {}
+}
+[handleMsg]:  {
+  id: 'false_51975665688@c.us_3EB05BB37EC2402B265010',
+  type: 'e2e_notification',
+  subtype: 'encrypt',
+  t: 1693583164,
+  from: '51975665688',
+  to: '51932140745@c.us',
+  self: 'in',
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  templateParams: [],
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51975665688@c.us',
+  fromMe: false,
+  sender: {
+    id: '51975665688@c.us',
+    type: 'in',
+    privacyMode: null,
+    formattedName: '+51 975 665 688',
+    isMe: false,
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {},
+    msgs: null
+  },
+  timestamp: 1693583164,
+  isGroupMsg: false,
+  mediaData: {}
+}
+[handleMsg]:  {
+  id: 'false_51991973881@c.us_3EB059E8C109663724F53A',
+  type: 'e2e_notification',
+  subtype: 'encrypt',
+  t: 1693583164,
+  from: '51991973881',
+  to: '51932140745@c.us',
+  self: 'in',
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  templateParams: [],
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51991973881@c.us',
+  fromMe: false,
+  sender: {
+    id: '51991973881@c.us',
+    type: 'in',
+    privacyMode: null,
+    formattedName: '+51 991 973 881',
+    isMe: false,
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {},
+    msgs: null
+  },
+  timestamp: 1693583164,
+  isGroupMsg: false,
+  mediaData: {}
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_E7BEB745B93AF93E5B3B6B77672A25DF',
+  body: 'Hola',
+  type: 'chat',
+  t: 1693583071,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  thumbnail: '',
+  richPreviewType: 0,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  hasReaction: false,
+  inviteGrpType: 'DEFAULT',
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 1,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: '+51 918 876 542',
+    isMe: false,
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693583071,
+  content: 'Hola',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_994DEEBD1971CD3A4D7DAE3215F6CB35',
+  body: 'Hola',
+  type: 'chat',
+  t: 1693583160,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 1,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: '+51 918 876 542',
+    isMe: false,
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693583160,
+  content: 'Hola',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendQueue_A]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendQueue_A]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_A182FB1DDA163DE569D86ABE301B230E',
+  body: 'Hola',
+  type: 'chat',
+  t: 1693584020,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    name: 'Josue Chambilla',
+    shortName: 'Josue Chambilla ',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 0,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: 'Josue Chambilla',
+    isMe: false,
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693584020,
+  content: 'Hola',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendQueue_A]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_2E65EB147B8E1E691FFB23FC168207B3',
+  body: '1',
+  type: 'chat',
+  t: 1693584028,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    name: 'Josue Chambilla',
+    shortName: 'Josue Chambilla ',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 0,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: 'Josue Chambilla',
+    isMe: false,
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693584028,
+  content: '1',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_bff7e5cd-d434-4a5a-abe6-a9eea0923ae3',
+  keyword: 'key_951c9540-32bd-4c95-ac70-73073b0ebbd5',
+  answer: 'Se acepta\n' +
+    'BANCO INTERBANK\n' +
+    '🔵 BANCO BCP, Cuenta simple en soles 49591475633006 CCI: 00249519147563300605\n' +
+    '🔵 YAPE AL NUMERO DE CELULAR:\n' +
+    ' 995 871 095\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee5cfcdc85c35ffd531b489c7b0feb77'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_bff7e5cd-d434-4a5a-abe6-a9eea0923ae3',
+  keyword: 'key_951c9540-32bd-4c95-ac70-73073b0ebbd5',
+  answer: 'Se acepta\n' +
+    'BANCO INTERBANK\n' +
+    '🔵 BANCO BCP, Cuenta simple en soles 49591475633006 CCI: 00249519147563300605\n' +
+    '🔵 YAPE AL NUMERO DE CELULAR:\n' +
+    ' 995 871 095\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee5cfcdc85c35ffd531b489c7b0feb77'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_bff7e5cd-d434-4a5a-abe6-a9eea0923ae3',
+  keyword: 'key_951c9540-32bd-4c95-ac70-73073b0ebbd5',
+  answer: 'Se acepta\n' +
+    'BANCO INTERBANK\n' +
+    '🔵 BANCO BCP, Cuenta simple en soles 49591475633006 CCI: 00249519147563300605\n' +
+    '🔵 YAPE AL NUMERO DE CELULAR:\n' +
+    ' 995 871 095\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee5cfcdc85c35ffd531b489c7b0feb77'
+}
+[databaseClass.save]:  {
+  ref: 'ans_bff7e5cd-d434-4a5a-abe6-a9eea0923ae3',
+  keyword: 'key_951c9540-32bd-4c95-ac70-73073b0ebbd5',
+  answer: 'Se acepta\n' +
+    'BANCO INTERBANK\n' +
+    '🔵 BANCO BCP, Cuenta simple en soles 49591475633006 CCI: 00249519147563300605\n' +
+    '🔵 YAPE AL NUMERO DE CELULAR:\n' +
+    ' 995 871 095\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee5cfcdc85c35ffd531b489c7b0feb77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bff7e5cd-d434-4a5a-abe6-a9eea0923ae3',
+  keyword: 'key_951c9540-32bd-4c95-ac70-73073b0ebbd5',
+  answer: 'Se acepta\n' +
+    'BANCO INTERBANK\n' +
+    '🔵 BANCO BCP, Cuenta simple en soles 49591475633006 CCI: 00249519147563300605\n' +
+    '🔵 YAPE AL NUMERO DE CELULAR:\n' +
+    ' 995 871 095\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee5cfcdc85c35ffd531b489c7b0feb77'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_FF95E7D79A7653E2B6D3311C3C442468',
+  body: '2',
+  type: 'chat',
+  t: 1693584031,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    name: 'Josue Chambilla',
+    shortName: 'Josue Chambilla ',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 0,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: 'Josue Chambilla',
+    isMe: false,
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693584031,
+  content: '2',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_13319845-beeb-4050-ad68-2a5a4d4c8ea0',
+  keyword: 'key_b418350c-df7f-4e9e-a60d-c458f4961df6',
+  answer: 'Atención de Lunes a Sabado\n' +
+    'Mañanas de 9:00am a 12:30pm\n' +
+    'Ubicación Jr. Mariano H. Cornejo\n' +
+    '372-129, Puno Segundo Piso\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '019eddee15e8fa9833349f06b01c8117'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_13319845-beeb-4050-ad68-2a5a4d4c8ea0',
+  keyword: 'key_b418350c-df7f-4e9e-a60d-c458f4961df6',
+  answer: 'Atención de Lunes a Sabado\n' +
+    'Mañanas de 9:00am a 12:30pm\n' +
+    'Ubicación Jr. Mariano H. Cornejo\n' +
+    '372-129, Puno Segundo Piso\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '019eddee15e8fa9833349f06b01c8117'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_13319845-beeb-4050-ad68-2a5a4d4c8ea0',
+  keyword: 'key_b418350c-df7f-4e9e-a60d-c458f4961df6',
+  answer: 'Atención de Lunes a Sabado\n' +
+    'Mañanas de 9:00am a 12:30pm\n' +
+    'Ubicación Jr. Mariano H. Cornejo\n' +
+    '372-129, Puno Segundo Piso\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '019eddee15e8fa9833349f06b01c8117'
+}
+[databaseClass.save]:  {
+  ref: 'ans_13319845-beeb-4050-ad68-2a5a4d4c8ea0',
+  keyword: 'key_b418350c-df7f-4e9e-a60d-c458f4961df6',
+  answer: 'Atención de Lunes a Sabado\n' +
+    'Mañanas de 9:00am a 12:30pm\n' +
+    'Ubicación Jr. Mariano H. Cornejo\n' +
+    '372-129, Puno Segundo Piso\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '019eddee15e8fa9833349f06b01c8117'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13319845-beeb-4050-ad68-2a5a4d4c8ea0',
+  keyword: 'key_b418350c-df7f-4e9e-a60d-c458f4961df6',
+  answer: 'Atención de Lunes a Sabado\n' +
+    'Mañanas de 9:00am a 12:30pm\n' +
+    'Ubicación Jr. Mariano H. Cornejo\n' +
+    '372-129, Puno Segundo Piso\n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '019eddee15e8fa9833349f06b01c8117'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_64E6C79EE68C167E24E8796B5A245E5A',
+  body: '3',
+  type: 'chat',
+  t: 1693584034,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    name: 'Josue Chambilla',
+    shortName: 'Josue Chambilla ',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 0,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: 'Josue Chambilla',
+    isMe: false,
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693584034,
+  content: '3',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_83e1193f-0244-4748-b685-bde5b0cf8cae',
+  keyword: 'key_a718d5d0-70c3-4ed7-8633-5210d53733bf',
+  answer: '- CURSO TALLER DE POWER BI\n' +
+    '- CURSO TALLER DE AULAS VIRTUALES CON CHAMILIO\n' +
+    '- CURSO TALLER DE INTELIGENCIA ARTIFICIAL\n' +
+    '- CURSO TALLER DE HERRAMIENTAS DIGITALES TECNOLÓGICAS PARA LA GESTIÓN\n' +
+    '- CURSO TALLER DE DISEÑO Y EDICION DE AUDIO Y VIDEO\n' +
+    '- CURSO TALLER DE OFIMÁTICA AVANZADA Y HERRAMIENTAS DE GOOGLE DRIVE\n' +
+    '- SQL SERVER AVANZADO CON ORACLE\n' +
+    '- CURSO TALLER DE PIZARRAS INTERACTIVAS DIGITALES\n' +
+    'Link con la infornación detallada de cada curso:\n' +
+    'https://ciispuno.es/cursos\n' +
+    '\n' +
+    'Si desea tener un certificado de un curso anterior\n' +
+    'puede asercarse al colegio de ingenieros en el horario de atención.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c8937cfdd5fed7910b7f3162e3b3bf6'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_83e1193f-0244-4748-b685-bde5b0cf8cae',
+  keyword: 'key_a718d5d0-70c3-4ed7-8633-5210d53733bf',
+  answer: '- CURSO TALLER DE POWER BI\n' +
+    '- CURSO TALLER DE AULAS VIRTUALES CON CHAMILIO\n' +
+    '- CURSO TALLER DE INTELIGENCIA ARTIFICIAL\n' +
+    '- CURSO TALLER DE HERRAMIENTAS DIGITALES TECNOLÓGICAS PARA LA GESTIÓN\n' +
+    '- CURSO TALLER DE DISEÑO Y EDICION DE AUDIO Y VIDEO\n' +
+    '- CURSO TALLER DE OFIMÁTICA AVANZADA Y HERRAMIENTAS DE GOOGLE DRIVE\n' +
+    '- SQL SERVER AVANZADO CON ORACLE\n' +
+    '- CURSO TALLER DE PIZARRAS INTERACTIVAS DIGITALES\n' +
+    'Link con la infornación detallada de cada curso:\n' +
+    'https://ciispuno.es/cursos\n' +
+    '\n' +
+    'Si desea tener un certificado de un curso anterior\n' +
+    'puede asercarse al colegio de ingenieros en el horario de atención.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c8937cfdd5fed7910b7f3162e3b3bf6'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_83e1193f-0244-4748-b685-bde5b0cf8cae',
+  keyword: 'key_a718d5d0-70c3-4ed7-8633-5210d53733bf',
+  answer: '- CURSO TALLER DE POWER BI\n' +
+    '- CURSO TALLER DE AULAS VIRTUALES CON CHAMILIO\n' +
+    '- CURSO TALLER DE INTELIGENCIA ARTIFICIAL\n' +
+    '- CURSO TALLER DE HERRAMIENTAS DIGITALES TECNOLÓGICAS PARA LA GESTIÓN\n' +
+    '- CURSO TALLER DE DISEÑO Y EDICION DE AUDIO Y VIDEO\n' +
+    '- CURSO TALLER DE OFIMÁTICA AVANZADA Y HERRAMIENTAS DE GOOGLE DRIVE\n' +
+    '- SQL SERVER AVANZADO CON ORACLE\n' +
+    '- CURSO TALLER DE PIZARRAS INTERACTIVAS DIGITALES\n' +
+    'Link con la infornación detallada de cada curso:\n' +
+    'https://ciispuno.es/cursos\n' +
+    '\n' +
+    'Si desea tener un certificado de un curso anterior\n' +
+    'puede asercarse al colegio de ingenieros en el horario de atención.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c8937cfdd5fed7910b7f3162e3b3bf6'
+}
+[databaseClass.save]:  {
+  ref: 'ans_83e1193f-0244-4748-b685-bde5b0cf8cae',
+  keyword: 'key_a718d5d0-70c3-4ed7-8633-5210d53733bf',
+  answer: '- CURSO TALLER DE POWER BI\n' +
+    '- CURSO TALLER DE AULAS VIRTUALES CON CHAMILIO\n' +
+    '- CURSO TALLER DE INTELIGENCIA ARTIFICIAL\n' +
+    '- CURSO TALLER DE HERRAMIENTAS DIGITALES TECNOLÓGICAS PARA LA GESTIÓN\n' +
+    '- CURSO TALLER DE DISEÑO Y EDICION DE AUDIO Y VIDEO\n' +
+    '- CURSO TALLER DE OFIMÁTICA AVANZADA Y HERRAMIENTAS DE GOOGLE DRIVE\n' +
+    '- SQL SERVER AVANZADO CON ORACLE\n' +
+    '- CURSO TALLER DE PIZARRAS INTERACTIVAS DIGITALES\n' +
+    'Link con la infornación detallada de cada curso:\n' +
+    'https://ciispuno.es/cursos\n' +
+    '\n' +
+    'Si desea tener un certificado de un curso anterior\n' +
+    'puede asercarse al colegio de ingenieros en el horario de atención.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c8937cfdd5fed7910b7f3162e3b3bf6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_83e1193f-0244-4748-b685-bde5b0cf8cae',
+  keyword: 'key_a718d5d0-70c3-4ed7-8633-5210d53733bf',
+  answer: '- CURSO TALLER DE POWER BI\n' +
+    '- CURSO TALLER DE AULAS VIRTUALES CON CHAMILIO\n' +
+    '- CURSO TALLER DE INTELIGENCIA ARTIFICIAL\n' +
+    '- CURSO TALLER DE HERRAMIENTAS DIGITALES TECNOLÓGICAS PARA LA GESTIÓN\n' +
+    '- CURSO TALLER DE DISEÑO Y EDICION DE AUDIO Y VIDEO\n' +
+    '- CURSO TALLER DE OFIMÁTICA AVANZADA Y HERRAMIENTAS DE GOOGLE DRIVE\n' +
+    '- SQL SERVER AVANZADO CON ORACLE\n' +
+    '- CURSO TALLER DE PIZARRAS INTERACTIVAS DIGITALES\n' +
+    'Link con la infornación detallada de cada curso:\n' +
+    'https://ciispuno.es/cursos\n' +
+    '\n' +
+    'Si desea tener un certificado de un curso anterior\n' +
+    'puede asercarse al colegio de ingenieros en el horario de atención.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c8937cfdd5fed7910b7f3162e3b3bf6'
+}
+[handleMsg]:  {
+  id: 'false_51918876542@c.us_2C05060D66C89DF624673F9B025832A4',
+  body: 'Hola',
+  type: 'chat',
+  t: 1693584067,
+  notifyName: 'J. J.',
+  from: '51918876542',
+  to: '51932140745@c.us',
+  self: 'in',
+  ack: 1,
+  invis: false,
+  isNewMsg: true,
+  star: false,
+  kicNotified: false,
+  recvFresh: true,
+  isFromTemplate: false,
+  pollInvalidated: false,
+  isSentCagPollCreation: false,
+  latestEditMsgKey: null,
+  latestEditSenderTimestampMs: null,
+  mentionedJidList: [],
+  groupMentions: [],
+  isVcardOverMmsDocument: false,
+  isForwarded: false,
+  hasReaction: false,
+  productHeaderImageRejected: false,
+  lastPlaybackProgress: 0,
+  isDynamicReplyButtonsMsg: false,
+  isMdHistoryMsg: false,
+  stickerSentTs: 0,
+  isAvatar: false,
+  lastUpdateFromServerTs: 0,
+  requiresDirectConnection: null,
+  invokedBotWid: null,
+  chatId: '51918876542@c.us',
+  fromMe: false,
+  sender: {
+    id: '51918876542@c.us',
+    name: 'Josue Chambilla',
+    shortName: 'Josue Chambilla ',
+    pushname: 'J. J.',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    isContactSyncCompleted: 0,
+    disappearingModeDuration: 0,
+    disappearingModeSettingTimestamp: 1691624272,
+    formattedName: 'Josue Chambilla',
+    isMe: false,
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      id: '51918876542@c.us',
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTSzFUjvG0o8nIlYwf0dCfXqg1qtAre8_0kvV3GrbvPIw&oe=64FD9FE3&_nc_cat=105',
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/370210923_3243059959325299_3870037771429751678_n.jpg?ccb=11-4&oh=01_AdRlsGEu8DN7vlLrlWLPUcEtkpX1RQP76dwMutSc83XnKg&oe=64FD9FE3&_nc_cat=105',
+      tag: '1692841854'
+    },
+    msgs: null
+  },
+  timestamp: 1693584067,
+  content: 'Hola',
+  isGroupMsg: false,
+  mediaData: {}
+}
+[sendQueue_A]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  keyword: 'key_59fdc270-668e-42d7-ab2e-11958e00ebc8',
+  answer: '🙌 Buenos días, desea saber alguna información en específico. (Escriba solo el número con la información que desea).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc592cd3137be3d9e8e54e958dbb497c'
+}
+[sendQueue_A]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[databaseClass.save]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5a3af07e-d3c1-4012-a4ac-ca7e5ec17e44',
+  keyword: 'ans_3e0ab5c0-68c3-4d40-8952-b7305e43afca',
+  answer: '👉 *1* Pagos\n' +
+    '👉 *2* Horarios de atención\n' +
+    '👉 *3* Cursos Dictados\n' +
+    '👉 *4* Cursos Actuales\n' +
+    '👉 *5* Futuros Cursos\n' +
+    '👉 *6* Envió de certificados a otras provincias\n' +
+    '👉 *7* Hablar con el coordinador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '41e66e372c6ab73a3f8eb41eabda1c6c'
+}
